@@ -1,0 +1,202 @@
+Click_ID,User_ID,Product_ID,Timestamp,Session_ID,Device_Type,Location,Referrer,Action_Type,Age
+1,U006,P028,01-05-2025 14:09,75fd2a2a,Mobile,South Joseph,Homepage,Click,33
+2,U002,P035,01-05-2025 18:21,be60f027,Tablet,New Joyceview,Homepage,AddToCart,59
+3,U008,P011,01-05-2025 22:32,c37cf913,Desktop,Davidborough,Social Media,View,43
+4,U020,P006,01-05-2025 10:57,872c1304,Tablet,Kimberlyshire,Google,AddToCart,23
+5,U009,P017,01-05-2025 01:43,50836d16,Desktop,Marissaville,Homepage,Click,24
+6,U020,P015,01-05-2025 19:37,8cd4cd8f,Mobile,East Tonyaland,Social Media,AddToCart,23
+7,U016,P015,01-05-2025 18:39,97449cfa,Mobile,Davidborough,Email Campaign,Wishlist,44
+8,U018,P031,01-05-2025 03:59,e1d83dac,Mobile,Nguyenmouth,Google,Click,40
+9,U004,P036,01-05-2025 05:56,ffe3e6e0,Mobile,Port Brianna,Google,Wishlist,51
+10,U007,P033,01-05-2025 17:59,db47f6cb,Desktop,Lake James,Homepage,Wishlist,30
+11,U017,P034,01-05-2025 11:12,a48ecc19,Mobile,East Tonyaland,Email Campaign,AddToCart,31
+12,U014,P031,01-05-2025 20:48,55532c87,Tablet,New Tyronefurt,Social Media,AddToCart,54
+13,U011,P028,01-05-2025 13:18,4eca454b,Tablet,East Tonyaland,Direct,Wishlist,44
+14,U007,P022,01-05-2025 05:28,c5a8966d,Desktop,New Joyceview,Homepage,Click,30
+15,U011,P029,01-05-2025 01:48,47a57252,Tablet,West Annaburgh,Direct,View,44
+16,U011,P031,01-05-2025 23:31,edb41468,Tablet,West Annaburgh,Google,Wishlist,44
+17,U013,P019,01-05-2025 21:58,aae2fcb4,Mobile,South Ryan,Social Media,Wishlist,25
+18,U017,P031,01-05-2025 18:36,33f9f5db,Desktop,South Shaneport,Email Campaign,Click,31
+19,U007,P007,01-05-2025 19:28,cdb5b04d,Mobile,East Lauren,Email Campaign,Click,30
+20,U019,P003,01-05-2025 13:37,25069538,Tablet,Kimberlyshire,Social Media,View,52
+21,U005,P005,01-05-2025 04:55,e75807dc,Tablet,Nguyenmouth,Homepage,AddToCart,56
+22,U008,P033,01-05-2025 23:40,d299eeef,Desktop,South Michael,Direct,Click,43
+23,U019,P007,01-05-2025 14:37,c49ddb24,Desktop,West Joshua,Email Campaign,Click,52
+24,U016,P025,01-05-2025 02:57,f851c8e0,Tablet,Nguyenmouth,Email Campaign,View,44
+25,U015,P011,01-05-2025 14:43,2ebeefc1,Desktop,Port Brianna,Google,Wishlist,30
+26,U020,P037,01-05-2025 06:32,cb8f0a86,Desktop,Kimberlyshire,Email Campaign,View,23
+27,U015,P030,01-05-2025 06:47,d972694f,Tablet,South Joseph,Email Campaign,View,30
+28,U006,P013,01-05-2025 14:16,75c40160,Tablet,South Joseph,Direct,Wishlist,33
+29,U015,P026,01-05-2025 10:11,a6027a04,Mobile,East Lauren,Email Campaign,Wishlist,30
+30,U008,P008,01-05-2025 04:50,46964fab,Mobile,South Michael,Social Media,View,43
+31,U013,P003,01-05-2025 10:44,adcb460d,Desktop,South Shaneport,Email Campaign,Click,25
+32,U014,P035,01-05-2025 05:31,f98969ec,Desktop,South Joseph,Homepage,Wishlist,54
+33,U020,P012,01-05-2025 21:19,974eb77e,Desktop,New Joyceview,Google,Click,23
+34,U013,P030,01-05-2025 06:26,a6989fcd,Desktop,West Timothy,Homepage,AddToCart,25
+35,U020,P029,01-05-2025 22:16,78b1b47d,Tablet,New Tyronefurt,Google,AddToCart,23
+36,U011,P001,01-05-2025 20:58,55ad6ff8,Tablet,New Tyronefurt,Homepage,AddToCart,44
+37,U014,P038,01-05-2025 14:52,24657793,Mobile,East Tonyaland,Social Media,Wishlist,54
+38,U006,P039,01-05-2025 11:03,5ce59311,Mobile,Kimberlyshire,Direct,Wishlist,33
+39,U013,P007,01-05-2025 03:04,f943e454,Mobile,West Annaburgh,Homepage,AddToCart,25
+40,U006,P036,01-05-2025 05:33,cff2b93d,Tablet,Nguyenmouth,Direct,AddToCart,33
+41,U018,P028,01-05-2025 06:02,8544f41d,Tablet,Kimberlyshire,Google,View,40
+42,U003,P024,01-05-2025 17:25,b13feafd,Tablet,South Shaneport,Direct,AddToCart,24
+43,U018,P022,01-05-2025 17:48,a6affd2c,Tablet,South Michael,Google,Click,40
+44,U004,P002,01-05-2025 09:32,c5d09112,Desktop,South Ryan,Homepage,View,51
+45,U008,P029,01-05-2025 16:58,bea3630b,Mobile,Grahamfort,Email Campaign,Wishlist,43
+46,U003,P022,01-05-2025 22:41,78d8dee4,Mobile,Marissaville,Email Campaign,View,24
+47,U012,P008,01-05-2025 06:48,3bb31127,Desktop,Marissaville,Homepage,Wishlist,19
+48,U013,P025,01-05-2025 19:20,35ba4713,Tablet,East Lauren,Social Media,Wishlist,25
+49,U003,P008,01-05-2025 15:20,d7d146b4,Tablet,South Ryan,Homepage,AddToCart,24
+50,U012,P031,01-05-2025 04:16,1ad174a5,Tablet,South Shaneport,Google,View,19
+51,U008,P008,01-05-2025 02:48,cdf22a62,Tablet,Nguyenmouth,Direct,Wishlist,43
+52,U013,P027,01-05-2025 00:45,7347a2c0,Desktop,Marissaville,Google,Click,25
+53,U007,P007,01-05-2025 07:24,15ebc0b5,Desktop,South Michael,Email Campaign,AddToCart,30
+54,U019,P013,01-05-2025 14:52,d8087569,Tablet,Davidborough,Direct,Click,52
+55,U015,P015,01-05-2025 10:02,ea0abb54,Mobile,Nguyenmouth,Homepage,AddToCart,30
+56,U010,P006,01-05-2025 03:14,08aa9d92,Tablet,East Lauren,Direct,Wishlist,28
+57,U013,P036,01-05-2025 10:51,0276dc44,Desktop,Port Brianna,Social Media,Click,25
+58,U016,P002,01-05-2025 07:18,a84774bb,Desktop,South Joseph,Google,View,44
+59,U016,P001,01-05-2025 10:10,7ad77899,Mobile,South Michael,Google,AddToCart,44
+60,U009,P022,01-05-2025 15:23,aaf5c295,Mobile,South Ryan,Direct,Wishlist,24
+61,U003,P018,01-05-2025 19:32,c510eebd,Tablet,Grahamfort,Social Media,AddToCart,24
+62,U014,P012,01-05-2025 23:56,e9caa804,Desktop,South Joseph,Email Campaign,Wishlist,54
+63,U010,P014,01-05-2025 17:36,faa6750c,Tablet,East Lauren,Homepage,Wishlist,28
+64,U020,P039,01-05-2025 06:23,b025a52d,Tablet,South Michael,Email Campaign,Click,23
+65,U011,P006,01-05-2025 13:55,7d566f88,Desktop,South Shaneport,Google,View,44
+66,U009,P039,01-05-2025 19:53,cc824492,Tablet,South Shaneport,Google,Wishlist,24
+67,U005,P037,01-05-2025 10:13,934d9930,Mobile,Marissaville,Social Media,AddToCart,56
+68,U018,P040,01-05-2025 08:46,2fadfbcd,Tablet,Marissaville,Social Media,Wishlist,40
+69,U013,P023,01-05-2025 06:39,1b1c31d8,Mobile,Port Brianna,Direct,View,25
+70,U011,P026,01-05-2025 20:59,1dd461d3,Desktop,South Michael,Email Campaign,AddToCart,44
+71,U003,P007,01-05-2025 04:06,142f0e2d,Tablet,South Ryan,Google,AddToCart,24
+72,U007,P027,01-05-2025 18:23,49c0d1dd,Tablet,Nguyenmouth,Email Campaign,AddToCart,30
+73,U004,P017,01-05-2025 06:53,3cd8403b,Desktop,Lake James,Email Campaign,View,51
+74,U002,P029,01-05-2025 00:30,e3fa8592,Tablet,South Michael,Email Campaign,AddToCart,59
+75,U016,P013,01-05-2025 18:59,f0cbcc3c,Desktop,South Michael,Google,Click,44
+76,U003,P040,01-05-2025 22:55,78d91f63,Mobile,New Joyceview,Social Media,Click,24
+77,U005,P026,01-05-2025 00:49,c723685d,Tablet,Davidborough,Email Campaign,Wishlist,56
+78,U001,P018,01-05-2025 09:56,9e0a3930,Tablet,South Michael,Email Campaign,AddToCart,59
+79,U007,P035,01-05-2025 04:16,837bc667,Tablet,South Joseph,Social Media,Click,30
+80,U017,P024,01-05-2025 06:25,2da4903c,Desktop,Grahamfort,Homepage,Wishlist,31
+81,U007,P009,01-05-2025 21:06,b5eadf4d,Desktop,Davidborough,Direct,View,30
+82,U012,P040,01-05-2025 07:26,53bbec35,Tablet,South Ryan,Direct,Wishlist,19
+83,U017,P032,01-05-2025 16:13,a68a76c1,Desktop,East Lauren,Direct,View,31
+84,U004,P028,01-05-2025 18:27,96044cb1,Mobile,Lake James,Direct,View,51
+85,U012,P003,01-05-2025 14:44,12b20a1c,Desktop,Grahamfort,Social Media,Wishlist,19
+86,U008,P009,01-05-2025 01:49,8ce480bd,Tablet,New Joyceview,Email Campaign,AddToCart,43
+87,U020,P011,01-05-2025 13:21,3512aae2,Desktop,Grahamfort,Email Campaign,Click,23
+88,U019,P030,01-05-2025 00:44,213f21ad,Mobile,South Ryan,Direct,View,52
+89,U016,P020,01-05-2025 20:57,a18d8a14,Desktop,South Joseph,Direct,Click,44
+90,U008,P008,01-05-2025 17:19,19b4b1fe,Mobile,West Annaburgh,Social Media,View,43
+91,U011,P021,01-05-2025 13:54,953c1338,Tablet,South Michael,Email Campaign,View,44
+92,U012,P022,01-05-2025 18:45,6dcb4c7c,Mobile,South Ryan,Social Media,AddToCart,19
+93,U012,P027,01-05-2025 16:55,9a79ee5b,Desktop,Grahamfort,Social Media,Click,19
+94,U007,P017,01-05-2025 08:07,731fb443,Desktop,Grahamfort,Homepage,View,30
+95,U004,P033,01-05-2025 20:06,45c68fe5,Mobile,South Shaneport,Email Campaign,View,51
+96,U008,P026,01-05-2025 10:38,d73ae4ed,Mobile,Marissaville,Google,AddToCart,43
+97,U011,P001,01-05-2025 05:43,f60b566a,Tablet,Lake James,Google,AddToCart,44
+98,U008,P025,01-05-2025 10:34,d90d96f2,Desktop,West Timothy,Email Campaign,View,43
+99,U011,P031,01-05-2025 13:06,0e7e6c13,Desktop,Kimberlyshire,Direct,Click,44
+100,U009,P036,01-05-2025 15:11,fee817c0,Tablet,South Shaneport,Direct,Click,24
+101,U014,P039,01-05-2025 14:49,0443d120,Mobile,East Tonyaland,Homepage,Wishlist,54
+102,U020,P002,01-05-2025 04:48,c5625384,Tablet,West Timothy,Social Media,View,23
+103,U017,P013,01-05-2025 03:20,2141b318,Tablet,West Timothy,Google,AddToCart,31
+104,U001,P026,01-05-2025 07:20,f55a86eb,Mobile,South Joseph,Direct,View,59
+105,U004,P035,01-05-2025 17:51,20ae96b4,Tablet,South Michael,Homepage,AddToCart,51
+106,U002,P002,01-05-2025 12:39,7618057a,Desktop,West Annaburgh,Email Campaign,View,59
+107,U013,P031,01-05-2025 16:01,4c0d3c8c,Desktop,South Michael,Direct,Wishlist,25
+108,U008,P040,01-05-2025 03:37,9752efa7,Mobile,South Michael,Email Campaign,AddToCart,43
+109,U008,P008,01-05-2025 14:51,e9672a7e,Mobile,West Annaburgh,Email Campaign,AddToCart,43
+110,U001,P038,01-05-2025 08:36,56e78700,Mobile,East Tonyaland,Social Media,AddToCart,59
+111,U008,P017,01-05-2025 08:13,de747827,Desktop,South Shaneport,Direct,Click,43
+112,U005,P034,01-05-2025 19:01,c766f40a,Tablet,West Joshua,Google,View,56
+113,U008,P001,01-05-2025 11:11,89719831,Tablet,New Joyceview,Google,Wishlist,43
+114,U010,P011,01-05-2025 17:26,eb72a5e7,Tablet,Davidborough,Google,Click,28
+115,U006,P010,01-05-2025 11:12,ab74a836,Desktop,South Shaneport,Google,Wishlist,33
+116,U003,P038,01-05-2025 13:44,f5b1837e,Tablet,New Joyceview,Google,View,24
+117,U014,P007,01-05-2025 03:43,6411d26a,Tablet,South Ryan,Direct,AddToCart,54
+118,U014,P007,01-05-2025 03:40,7ecfcf95,Mobile,Grahamfort,Social Media,View,54
+119,U004,P031,01-05-2025 23:04,79c5dd45,Tablet,Davidborough,Homepage,Click,51
+120,U006,P031,01-05-2025 21:24,c6c2b6b1,Mobile,East Lauren,Social Media,Wishlist,33
+121,U012,P006,01-05-2025 00:56,adade96a,Mobile,South Michael,Email Campaign,Click,19
+122,U017,P024,01-05-2025 20:16,ca0672b5,Mobile,East Tonyaland,Direct,Click,31
+123,U002,P034,01-05-2025 08:30,73e344d7,Tablet,South Michael,Google,AddToCart,59
+124,U002,P032,01-05-2025 22:32,a99f285b,Desktop,South Ryan,Email Campaign,Wishlist,59
+125,U012,P001,01-05-2025 18:47,a5809885,Desktop,Marissaville,Email Campaign,View,19
+126,U011,P036,01-05-2025 17:03,c39d8b39,Mobile,Marissaville,Social Media,Wishlist,44
+127,U004,P008,01-05-2025 22:19,5c7542f8,Mobile,South Ryan,Homepage,Wishlist,51
+128,U015,P010,01-05-2025 05:50,7e072705,Desktop,West Annaburgh,Social Media,AddToCart,30
+129,U003,P037,01-05-2025 09:09,d6d94af5,Mobile,Lake James,Google,View,24
+130,U020,P027,01-05-2025 06:37,573b6f77,Tablet,New Joyceview,Homepage,Wishlist,23
+131,U001,P007,01-05-2025 10:17,09b35945,Mobile,East Lauren,Direct,Click,59
+132,U018,P017,01-05-2025 15:50,d97583be,Tablet,South Ryan,Direct,Wishlist,40
+133,U018,P012,01-05-2025 15:11,03b52ce1,Mobile,West Joshua,Google,View,40
+134,U012,P004,01-05-2025 13:02,4dde7dbd,Tablet,Port Brianna,Direct,AddToCart,19
+135,U013,P037,01-05-2025 09:18,f2a9671e,Mobile,Lake James,Direct,AddToCart,25
+136,U018,P039,01-05-2025 08:38,65ebd5e2,Desktop,South Ryan,Homepage,Wishlist,40
+137,U007,P040,01-05-2025 13:07,e6695847,Desktop,Kimberlyshire,Homepage,Click,30
+138,U011,P023,01-05-2025 01:28,20383c22,Mobile,East Tonyaland,Email Campaign,View,44
+139,U015,P025,01-05-2025 20:11,d003f5c0,Desktop,East Tonyaland,Homepage,AddToCart,30
+140,U019,P037,01-05-2025 14:03,9dc123ec,Mobile,Davidborough,Social Media,Click,52
+141,U018,P027,01-05-2025 17:14,0c4612b1,Mobile,Lake James,Email Campaign,Wishlist,40
+142,U014,P011,01-05-2025 07:29,d5f40a56,Tablet,New Tyronefurt,Homepage,Wishlist,54
+143,U008,P028,01-05-2025 08:32,83c9e854,Desktop,South Ryan,Homepage,AddToCart,43
+144,U009,P020,01-05-2025 03:44,e4ace094,Desktop,South Joseph,Social Media,View,24
+145,U013,P040,01-05-2025 18:50,75d04334,Tablet,New Tyronefurt,Google,Wishlist,25
+146,U004,P005,01-05-2025 06:49,077d4fb4,Mobile,Port Brianna,Google,Click,51
+147,U001,P025,01-05-2025 11:21,0fc2ae9a,Mobile,Lake James,Google,AddToCart,59
+148,U018,P014,01-05-2025 22:34,138667df,Desktop,Grahamfort,Google,Click,40
+149,U006,P005,01-05-2025 00:26,464daa85,Tablet,Nguyenmouth,Google,View,33
+150,U019,P022,01-05-2025 02:02,4df4d376,Desktop,East Tonyaland,Email Campaign,View,52
+151,U019,P010,01-05-2025 21:08,81002d7e,Desktop,Grahamfort,Social Media,AddToCart,52
+152,U019,P030,01-05-2025 19:23,d2e162f4,Desktop,South Michael,Direct,AddToCart,52
+153,U017,P007,01-05-2025 16:56,0198e51c,Tablet,New Joyceview,Social Media,View,31
+154,U017,P032,01-05-2025 14:09,f7d070ac,Desktop,South Ryan,Direct,View,31
+155,U006,P010,01-05-2025 03:13,7c6b71f7,Mobile,South Joseph,Homepage,Wishlist,33
+156,U001,P031,01-05-2025 15:21,45160426,Desktop,Lake James,Email Campaign,Wishlist,59
+157,U001,P026,01-05-2025 11:23,ebb0859e,Tablet,West Annaburgh,Social Media,AddToCart,59
+158,U019,P029,01-05-2025 04:38,f491c64f,Tablet,Nguyenmouth,Direct,View,52
+159,U018,P006,01-05-2025 16:17,3db26ee9,Mobile,West Timothy,Email Campaign,Wishlist,40
+160,U014,P030,01-05-2025 23:25,eb2a226b,Desktop,South Joseph,Social Media,Click,54
+161,U008,P032,01-05-2025 00:35,028cbb8e,Tablet,Port Brianna,Social Media,Wishlist,43
+162,U020,P011,01-05-2025 02:25,c39b6cd9,Mobile,Lake James,Direct,Wishlist,23
+163,U017,P034,01-05-2025 05:18,b740202f,Mobile,East Lauren,Direct,View,31
+164,U014,P022,01-05-2025 19:45,561ede4b,Mobile,South Ryan,Direct,Wishlist,54
+165,U005,P023,01-05-2025 06:16,efe4a3a6,Desktop,East Lauren,Google,Click,56
+166,U015,P040,01-05-2025 10:42,45497626,Tablet,Davidborough,Social Media,Click,30
+167,U003,P024,01-05-2025 05:20,916456a8,Mobile,South Joseph,Homepage,View,24
+168,U005,P033,01-05-2025 11:41,7731a6ca,Desktop,Port Brianna,Google,View,56
+169,U001,P018,01-05-2025 18:57,f572a848,Mobile,East Lauren,Direct,Click,59
+170,U010,P032,01-05-2025 01:13,105b73bd,Mobile,Davidborough,Google,Wishlist,28
+171,U001,P017,01-05-2025 12:31,44ae95dc,Mobile,South Joseph,Direct,AddToCart,59
+172,U004,P021,02-05-2025 00:00,64ca868c,Tablet,Lake James,Email Campaign,Click,51
+173,U001,P009,01-05-2025 20:52,1ee3f0d2,Desktop,New Joyceview,Email Campaign,Wishlist,59
+174,U015,P019,01-05-2025 05:10,3defa4a6,Tablet,West Joshua,Email Campaign,AddToCart,30
+175,U014,P023,01-05-2025 09:03,5d222c23,Mobile,East Lauren,Google,Wishlist,54
+176,U013,P009,01-05-2025 17:11,e30327f7,Desktop,South Ryan,Email Campaign,Click,25
+177,U007,P007,01-05-2025 15:18,c4187877,Mobile,Nguyenmouth,Social Media,Click,30
+178,U019,P029,01-05-2025 15:53,a7e9c799,Tablet,Lake James,Email Campaign,View,52
+179,U018,P035,01-05-2025 01:27,66cb90ec,Tablet,South Shaneport,Social Media,AddToCart,40
+180,U011,P017,01-05-2025 02:46,2cf47834,Mobile,East Lauren,Email Campaign,View,44
+181,U011,P028,01-05-2025 19:32,911d71d0,Desktop,South Shaneport,Direct,Wishlist,44
+182,U005,P030,01-05-2025 05:56,c81ddcf4,Desktop,South Ryan,Email Campaign,Wishlist,56
+183,U014,P036,01-05-2025 06:39,5c78756b,Tablet,Kimberlyshire,Google,Wishlist,54
+184,U007,P022,01-05-2025 20:28,27963bf7,Tablet,South Joseph,Google,AddToCart,30
+185,U001,P014,01-05-2025 19:07,ba85d6f6,Mobile,Grahamfort,Direct,Click,59
+186,U007,P035,01-05-2025 08:10,f61b7c50,Tablet,South Ryan,Direct,View,30
+187,U009,P021,01-05-2025 19:50,33a36745,Tablet,South Ryan,Google,Wishlist,24
+188,U015,P015,01-05-2025 05:45,afee1922,Mobile,West Joshua,Homepage,AddToCart,30
+189,U007,P017,01-05-2025 12:04,a3c223eb,Mobile,Kimberlyshire,Social Media,AddToCart,30
+190,U011,P002,01-05-2025 18:13,e7571bc6,Desktop,New Tyronefurt,Direct,View,44
+191,U014,P012,01-05-2025 19:04,af1ca8fa,Tablet,Port Brianna,Social Media,AddToCart,54
+192,U016,P026,01-05-2025 00:28,be8c2ef4,Desktop,East Tonyaland,Google,View,44
+193,U001,P022,01-05-2025 19:38,1c4fe816,Mobile,Marissaville,Email Campaign,AddToCart,59
+194,U010,P003,01-05-2025 05:55,b963f935,Mobile,South Ryan,Social Media,Wishlist,28
+195,U005,P004,01-05-2025 15:18,c3949b81,Mobile,Grahamfort,Email Campaign,Wishlist,56
+196,U007,P006,01-05-2025 09:56,d3536cc6,Desktop,East Lauren,Social Media,View,30
+197,U005,P024,01-05-2025 17:43,2be24b2e,Desktop,South Ryan,Google,Wishlist,56
+198,U008,P037,01-05-2025 00:10,9c06b283,Mobile,South Shaneport,Homepage,Click,43
+199,U015,P030,01-05-2025 21:57,83056c78,Mobile,South Shaneport,Email Campaign,Click,30
+200,U002,P037,01-05-2025 16:48,0a235af3,Tablet,West Timothy,Email Campaign,Wishlist,59
+201,UU001,P028,01-05-2025 16:48,0a235af3,Tablet,West Timothy,Email Campaign,Wishlist,59
